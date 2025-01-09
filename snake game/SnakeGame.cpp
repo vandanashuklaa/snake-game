@@ -1,7 +1,4 @@
-/* Snake Game using C++ 
-developed by TheKittyKat, 
-improved by Nazim Nazari 
-December 2017 */
+
 
 #include <iostream>
 #include <conio.h>
